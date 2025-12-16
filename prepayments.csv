@@ -1,0 +1,4 @@
+month,amount,type,remark
+3,50000,LUMP_SUM,Bonus
+6,25000,EXTRA_EMI,Savings
+10,100000,LUMP_SUM,Inheritance

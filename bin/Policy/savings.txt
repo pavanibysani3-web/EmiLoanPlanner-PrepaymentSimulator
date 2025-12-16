@@ -1,0 +1,6 @@
+Loan Savings Report
+-------------------
+Total Interest without Prepayment : 6600.00
+Total Interest with Prepayment    : 5200.00
+Interest Saved                    : 1400.00
+Loan Closed Early By (months)     : 1
